@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Bruno
+# 👋 Bruno Costa
 
 🎓 Analysis and Systems Development student  
 💻 Backend Developer focused on Python & C++  
