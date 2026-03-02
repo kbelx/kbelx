@@ -17,84 +17,62 @@
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Languages
 
-  
-  <img
-    align="left"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" 
-    height="60"
-    />
-  
-  <img
-    align="left"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" 
-    height="60"
-    />
-    
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
-    height="60"
-    />
-     
-     
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
+</p>
 
-**Tools**
+### Tools
 
-<img 
-	align="left"
-	height="60"	
-	src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" 
-/>
-
-<img 
-	align="left"
-	height="60"	
-	src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" 
-/>
-
-<img 
-	align="left"
-	height="60"	
-	src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" 
-/>
-          
-<img 
-	align="left"
-	height="60"	
-	src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
-/>
-
-<img 
-	align="left"
-	height="60"	
-	src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" 
-/>
-
-<img 
-	align="left"
-	height="60"	
-	src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" 
-/>
-  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="50"/>
+</p>
 
 ---
 
 ## 📌 Projects
 
-### 🔹 [Pebbl](https://github.com/kbelx/pebbl)
+### 🔹 Pebbl
 CLI Contact Manager built with:
-- Typer
-- Rich
-- Firebase
-- CRUD operations
 
-### 🔹 [CPP_Bootstrap](https://github.com/kbelx/cpp-bootstrap)
+- Typer  
+- Rich  
+- Firebase  
+- CRUD operations  
+
+🔗 https://github.com/kbelx/pebbl
+
+---
+
+### 🔹 CPP_Bootstrap
 C++ project generator using CMake.
+
+🔗 https://github.com/kbelx/cpp-bootstrap
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/brunocosta-dev/
-- Email: brunocostaneves@live.com
+<p align="left">
+
+<a href="https://www.linkedin.com/in/brunocosta-dev/">
+  <img src="https://img.shields.io/badge/LinkedIn-Bruno%20Costa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:brunocostaneves@live.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kbelx">
+  <img src="https://img.shields.io/badge/GitHub-kbelx-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
