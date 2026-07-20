@@ -1,5 +1,5 @@
 # Bruno Costa
-Backend Developer | Systems Analysis Student (5th Sem)
+### Backend Developer | Systems Analysis Student (5th Sem)
 Focused on Python, C++, CLI tools & Software Architecture. Also exploring sound design and tech-art intersections.
 
 ---
@@ -40,6 +40,13 @@ Terminal-based contact manager built with Python, Typer, Rich, and Firebase data
 Automated C++ project scaffolding generator powered by CMake.
 
 🔗 https://github.com/kbelx/cpp-bootstrap
+
+---
+
+### 🔹 KB_LAB
+C++ script to automate the creation of the folder structure for new Mixing, Music Production, and/or Mastering projects.
+
+🔗 https://github.com/kbelx/KB_LAB
 
 ---
 
