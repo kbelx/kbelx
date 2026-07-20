@@ -1,17 +1,6 @@
-# 👨🏻‍💻 Bruno Costa
-
-🎓 Analysis and Systems Development student (5th semester)  
-💻 Backend Developer focused on Python, C++ and CLI tools  
-🎵 Musician & Sound Designer interested in technology and systems
-
----
-
-## 🚀 About Me
-
-- Backend development student focused on **Python and C++**
-- Interested in **software architecture, automation and CLI tools**
-- Currently building personal projects to deepen knowledge in **systems programming and backend development**
-- Musician and sound designer exploring the intersection between **technology and art**
+# Bruno Costa
+Backend Developer | Systems Analysis Student (5th Sem)
+Focused on Python, C++, CLI tools & Software Architecture. Also exploring sound design and tech-art intersections.
 
 ---
 
@@ -25,7 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
 </p>
 
-### Tools
+### Tools & OS
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
@@ -38,39 +27,19 @@
 
 ---
 
-## 📌 Projects
+## 🚀 Projects
 
 ### 🔹 Pebbl
-
-CLI Contact Manager built with Python.
-
-Features:
-
-- Contact CRUD system
-- Firebase database integration
-- Rich terminal interface
-- Command-line interface built with Typer
-
-Tech:
-Python • Typer • Rich • Firebase
+Terminal-based contact manager built with Python, Typer, Rich, and Firebase database integration.
 
 🔗 https://github.com/kbelx/pebbl
 
 ---
 
 ### 🔹 CPP_Bootstrap
-C++ project generator using CMake.
+Automated C++ project scaffolding generator powered by CMake.
 
 🔗 https://github.com/kbelx/cpp-bootstrap
-
----
-
-## 📚 Currently Learning
-
-- Software Architecture
-- C++ Systems Programming
-- Data Structures
-- Backend Development
 
 ---
 
