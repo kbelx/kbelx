@@ -27,29 +27,6 @@ Focused on Python, C++, CLI tools & Software Architecture. Also exploring sound 
 
 ---
 
-## 🚀 Projects
-
-### 🔹 Pebbl
-Terminal-based contact manager built with Python, Typer, Rich, and Firebase database integration.
-
-🔗 https://github.com/kbelx/pebbl
-
----
-
-### 🔹 CPP_Bootstrap
-Automated C++ project scaffolding generator powered by CMake.
-
-🔗 https://github.com/kbelx/cpp-bootstrap
-
----
-
-### 🔹 KB_LAB
-C++ script to automate the creation of the folder structure for new Mixing, Music Production, and/or Mastering projects.
-
-🔗 https://github.com/kbelx/KB_LAB
-
----
-
 ## 📫 Contact
 
 <p align="left">
