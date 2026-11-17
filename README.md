@@ -5,6 +5,8 @@ Hi! I'm a backend developer and Systems Analysis student focused on Python, C++,
 - LinkedIn: [brunocosta-dev](https://www.linkedin.com/in/brunocosta-dev/)
 - Email: [brunocostaneves@live.com](mailto:brunocostaneves@live.com)
 - GitHub: [kbelx](https://github.com/kbelx)
+- X: [kbelx](https://x.com/kbelx_)
+- SoundCloud: [kbelx](https://soundcloud.com/kbelx)
 
 ---
 
